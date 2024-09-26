@@ -1,0 +1,47 @@
+.about_section {
+  display: flex;
+  padding: 23px;
+  align-items: center;
+  height: 200px;
+}
+
+.about_image {
+  width: 400px;
+  display: grid;
+  height: 200px;
+}
+
+.about_text {
+  width: 500px;
+  padding: -80px;
+  position: relative;
+  top: -12px;
+  left: 30px;
+}
+
+.about_text h3 {
+  font-family: "League Spartan", sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.about_text p {
+  font-family: "League Spartan", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.about_image {
+  width: -20%;
+  position: relative;
+  top: -50px;
+  right: 40px;
+}
+.img2 {
+  width: 391px;
+  height: auto;
+  position: relative;
+  top: -15px;
+  left: 82px;
+}
